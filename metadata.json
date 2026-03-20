@@ -1,0 +1,7 @@
+{
+  "name": "BrandSentinel AI",
+  "description": "Enterprise-grade brand protection and image integrity suite. Detects AI manipulation, unauthorized use, and brand impersonation using advanced multi-modal analysis and real-time web grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
